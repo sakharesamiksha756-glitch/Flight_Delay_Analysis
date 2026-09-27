@@ -205,9 +205,7 @@ Flight\_Delay\_Analysis/
 ```
 
 ---
-
-## 📊 Dashboard Preview
-## ⭐ Project Highlights
+ ⭐ Project Highlights
 
 - Analyzed 539,747 historical flight records to identify delay and cancellation patterns.
 - Calculated an overall flight delay rate of 18.79%.
@@ -217,6 +215,11 @@ Flight\_Delay\_Analysis/
 - Developed a Machine Learning model using Random Forest to predict flight delays.
 - Achieved a ROC-AUC score of 0.6368 with the Random Forest model.
 - Built an interactive Streamlit dashboard for exploring flight operations and delay insights.
+
+
+
+## 📊 Dashboard Preview
+
 
 <img src="images/dashboard_preview.png" alt="Flight Delay Dashboard">
 
