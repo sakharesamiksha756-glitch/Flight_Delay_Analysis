@@ -203,5 +203,6 @@ Flight\_Delay\_Analysis/
 └── README.md
 ## 📊 Dashboard Preview
 
-![Flight Delay Dashboard](images/dashboard_preview.png)
+
+<img src="images/dashboard_preview.png" alt="Flight Delay Dashboard">
 
