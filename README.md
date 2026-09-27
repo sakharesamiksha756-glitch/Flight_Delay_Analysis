@@ -201,8 +201,12 @@ Flight\_Delay\_Analysis/
 ├── .gitignore
 
 └── README.md
-## 📊 Dashboard Preview
 
+```
+
+---
+
+## 📊 Dashboard Preview
 
 <img src="images/dashboard_preview.png" alt="Flight Delay Dashboard">
 
