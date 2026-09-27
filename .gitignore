@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large raw dataset
+data/T_ONTIME_REPORTING.csv
+
+# SQLite database
+sql/flight_delay.db
+sqlite3.exe
+sqldiff.exe
+sqlite3_analyzer.exe
+sqlite3_rsync.exe
